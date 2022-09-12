@@ -69,6 +69,7 @@ const nodes = [
     {
         value: '/.env',
         label: '.env',
+        children: [],
     },
     {
         value: '/.gitignore',
